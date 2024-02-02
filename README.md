@@ -1,7 +1,8 @@
 <h1 style='text-align: center;'>U.T.I Diagnosis Classification</h1>
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kr-agdeppa/UTI-Diagnosis-Classification?style=flat-square&color=%232ccce4">
+<img alt="" src="assets/clinic.png">
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kr-agdeppa/UTI-Diagnosis-Classification?style=flat-square&color=%232ccce4">
 
 <img alt="GitHub License" src="https://img.shields.io/github/license/kr-agdeppa/UTI-Diagnosis-Classification?style=flat-square&color=%232ccce4">
 
