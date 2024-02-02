@@ -1,6 +1,6 @@
 <h1 style='text-align: center;'>U.T.I Diagnosis Classification</h1>
 
-<img src="images/baybayin.png" alt="" />
+<img src="assets/BANNER.png" alt="" />
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kr-agdeppa/UTI-Diagnosis-Classification?style=flat-square&color=%232ccce4">
 
